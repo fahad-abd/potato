@@ -1,34 +1,34 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Potato Advisor 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name:Danger boys
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Gokul G - CUSAT
+- Member 2: FAHAD ABDULLA - CUSAT
 
 ### Project Description
-[2-3 lines about what your project does]
+-Potato Advisor is a playful web app that matches your mood to a potato-themed personality, showing a fun potato image and suggesting a song that fits your feelings. It turns your emotions into tasty potato metaphors to brighten your day!
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+what is your mood in potato?
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+your potato based on your mood
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- python
+- flask
+- pyngrok,ngrok
+- Vs code
 
 For Hardware:
 - [List main components]
@@ -38,13 +38,11 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+[flask and ngork ]
 
 # Run
-[commands]
+[we used python]
 
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
