@@ -45,14 +45,8 @@ For Software:
 
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="959" height="538" alt="Screenshot 2025-08-09 162043" src="https://github.com/user-attachments/assets/e655af3d-f3a3-4c61-9919-c8a3a4695cbf" />
+<img width="959" height="539" alt="Screenshot 2025-08-09 162152" src="https://github.com/user-attachments/assets/e77cef7d-ba43-4df1-bbeb-b4a93e30a971" />
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -79,8 +73,8 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://github.com/user-attachments/assets/cdcc3450-3d91-4504-b9c7-09bf6773e826
+potato reacts based on the emotions u have
 
 # Additional Demos
 [Add any extra demo materials/links]
@@ -95,6 +89,7 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
 
 
 
